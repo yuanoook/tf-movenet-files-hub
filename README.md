@@ -1,3 +1,7 @@
+Files from
+
+https://www.kaggle.com/models/google/movenet/tfLite
+
 This repo is soly for hosting the movenet tflite files for
 
 https://github.com/tensorflow/examples/blob/master/lite/examples/pose_estimation/android/app/download.gradle
